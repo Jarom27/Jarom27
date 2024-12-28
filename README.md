@@ -1,6 +1,6 @@
 ## Hi I am Jarom Mariscal Zozaya, a Full Stack Developer and a current BYU Pathway Student for a bachelor´s degree in Software Development 👋
 ### Skills:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwindcss,bootstrap,nodejs,react,laravel,php,java,spring,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwindcss,bootstrap,nodejs,react,laravel,php,java,python,go)](https://skillicons.dev)
 ### About me
 I am apasionate for the programming world. I love playing Volley, reading books and drawing pictures.
 This is my personal portfolio with projects, such academic as professionals. 
